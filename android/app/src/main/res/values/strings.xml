@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineTranslation</string>
+    <string name="welcome">HORAS!</string>
+    <string name="welcome2">Silahkan lakukan penerjemahan dengan memasukkan kalimat ke kotak dibawah</string>
+</resources>

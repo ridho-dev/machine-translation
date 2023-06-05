@@ -2,4 +2,6 @@
     <string name="app_name">MachineTranslation</string>
     <string name="welcome">HORAS!</string>
     <string name="welcome2">Silahkan lakukan penerjemahan dengan memasukkan kalimat ke kotak dibawah</string>
+    <string name="bahasa_batak_toba">Bahasa Batak Toba</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
 </resources>

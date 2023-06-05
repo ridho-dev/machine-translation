@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         val toolbar: Toolbar = binding.tbMain
         setSupportActionBar(toolbar)
         supportActionBar?.setDisplayShowTitleEnabled(false)
+
+        binding.targetLanguageForm.isEnabled = false
     }
 }

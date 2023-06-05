@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects-Personal/MachineTranslation/android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects-Personal/MachineTranslation/android/app/src/main/res/drawable/button_rounded_corner.xml" value="0.1935" />
+        <entry key="..\:/Projects-Personal/MachineTranslation/android/app/src/main/res/drawable/rounded_corner.xml" value="0.1125" />
+        <entry key="..\:/Projects-Personal/MachineTranslation/android/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
   </component>
